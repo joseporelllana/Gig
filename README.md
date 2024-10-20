@@ -51,43 +51,9 @@ The app will be built for Android Mobile devices. Kotlin/Java will be the progra
 ![4](https://github.com/user-attachments/assets/6d16c3ed-3f8a-4391-904f-fb3a2b651d09)
 ![5](https://github.com/user-attachments/assets/861286bd-6282-4bbf-95db-25afa36fb86c)
 
-## Project Update
-An update to the GigBook’s UI is listed beside this, now when you click an entry the following design will be showcased. 
-
-Here’s an arrangement for how the app will be built: 
-
-app/ 
-
-├── ui/ │
+## App Structure
+<img width="589" alt="Screenshot 2024-10-20 at 6 06 03 PM" src="https://github.com/user-attachments/assets/eeaf6441-69e6-4bae-ad1f-86be41b83055">
 
 
-├── MainActivity.kt │ 
 
 
-├── AuthActivity.kt │ 
-
-
-├── CreateGigBookActivity.kt │ 
-
-
-├── GigBookActivity.kt │ 
-
-
-└── AddConcertActivity.kt 
-
-
-├── models/ │ 
-
-
-├── GigBook.kt 
-
-
-│ └── ConcertEntry.kt 
-
-
-├── utils/ 
-
-
-│ └── FirestoreUtils.kt        
-
-The menu has also been changed to be more user-friendly, it will utilize those recognizable icons to better fit the needs of the user. 
