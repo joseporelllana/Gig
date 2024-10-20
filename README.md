@@ -49,7 +49,12 @@ The app will be built for Android Mobile devices. Kotlin/Java will be the progra
 ![2](https://github.com/user-attachments/assets/9875a2d8-6c5f-484a-b197-43ecaa314715)
 ![3](https://github.com/user-attachments/assets/aa09a557-5a38-4187-a646-2bb6feb072fe)
 ![4](https://github.com/user-attachments/assets/6d16c3ed-3f8a-4391-904f-fb3a2b651d09)
-![5](https://github.com/user-attachments/assets/861286bd-6282-4bbf-95db-25afa36fb86c)
+
+<img width="214" alt="Screenshot 2024-10-20 at 6 08 50 PM" src="https://github.com/user-attachments/assets/e4e2602c-8870-45d6-bfb6-c0d1ba709c46">
+<img width="207" alt="Screenshot 2024-10-20 at 6 09 06 PM" src="https://github.com/user-attachments/assets/3832ff2a-52f1-405f-8bce-28baead628ee">
+<img width="205" alt="Screenshot 2024-10-20 at 6 10 01 PM" src="https://github.com/user-attachments/assets/3dfe0ce3-f221-454e-8d25-9b4e25acb0ea">
+
+
 
 ## App Structure
 <img width="589" alt="Screenshot 2024-10-20 at 6 06 03 PM" src="https://github.com/user-attachments/assets/eeaf6441-69e6-4bae-ad1f-86be41b83055">
