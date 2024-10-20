@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35483958354",
+    "project_id": "the-gig-book",
+    "storage_bucket": "the-gig-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35483958354:android:129bf61bedfff650b1338b",
+        "android_client_info": {
+          "package_name": "com.example.thegigbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXrBaBolpPPgynVuW8qX8GgBFOWGj1sM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
