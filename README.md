@@ -1,5 +1,6 @@
 # GigBook: Shows Your Shows
-<img width="240" alt="image" src="https://github.com/user-attachments/assets/dc824677-a667-4376-8344-ac8152dce19b">
+![Modern unique creative letter C logo design, Minimal line C initial based vector icon](https://github.com/user-attachments/assets/724b0d06-0827-47be-ba6f-81e67c4e7404)
+
 
 
 ## Project Description
